@@ -18,3 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 ## Screenshots
 
 ![alt text](https://github.com/JackMintabae/flutter_layout_mbanking/blob/main/images/Screenshot.png?raw=true)
+![alt text](https://github.com/JackMintabae/flutter_layout_mbanking/blob/main/images/Screenshot1.png?raw=true)
